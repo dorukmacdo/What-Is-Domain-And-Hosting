@@ -1,1 +1,1 @@
-# What-Is-Domain-And-Hosting
+# What Is Domain And Hosting
