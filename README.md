@@ -7,6 +7,9 @@ Domain Name is the address you use when logging into a website, for example: app
 # Domain Records
 
 A = Redirects To IPv4 Address
+
 AAAA = Redirects at IPV6
+
 CNAME = Redirects To a Hostname
+
 MX = Email Related
